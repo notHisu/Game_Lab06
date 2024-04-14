@@ -4164,7 +4164,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 10907, guid: 0000000000000000f000000000000000, type: 0}
+  m_Sprite: {fileID: 0}
   m_Type: 1
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -4194,6 +4194,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5db6613c504791f4f9c9698a151f3641, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  isPaused: 0
 --- !u!4 &1963101795 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 1696287717400823076, guid: f6758af7bc463a7448c5effca6efdf40, type: 3}
